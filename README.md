@@ -34,7 +34,7 @@
   <a href="https://instagram.com/vaish_does_art" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/vaishu_uwu" target="_blank">
+  <a href="https://youtube.com/@vaishu_uwu?si=xNlsNg-R7-NLxIwI" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
   <a href="https://discord.gg/Dh5YHanFvX" target="_blank">
