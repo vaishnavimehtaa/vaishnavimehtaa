@@ -10,6 +10,15 @@
 </h3>
 
 <p align="center">
+  <a href="./resume.pdf" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/✨%20Resume-View%20PDF-f7a8b8?style=rounded-pill&logo=adobeacrobatreader&logoColor=white"
+      alt="Resume"
+    />
+  </a>
+</p>
+
+<p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=vaishnavimehtaa&label=Profile%20views&color=0e75b6&style=flat" 
     alt="vaishnavimehtaa profile views" 
